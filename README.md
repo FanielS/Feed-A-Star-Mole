@@ -1,5 +1,3 @@
-# Feed-A-Star-Mole
-
 
 # Game: Feed-A-Star-Mole
 
